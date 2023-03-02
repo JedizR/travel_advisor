@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/travel_advisor/static/css/main.0e93fd17.css",
+    "main.js": "/travel_advisor/static/js/main.138d91e1.js",
+    "static/media/video.mp4": "/travel_advisor/static/media/video.157c34e75586b1ed172c.mp4",
+    "static/media/video (2).mp4": "/travel_advisor/static/media/video (2).080cc0e242da8928d1bb.mp4",
+    "static/media/img (1).jpg": "/travel_advisor/static/media/img (1).a0bec0d4886c91662ea7.jpg",
+    "static/media/img (3).jpg": "/travel_advisor/static/media/img (3).30c4f879022fde79db6b.jpg",
+    "static/media/img (5).jpg": "/travel_advisor/static/media/img (5).d5dc7cbff4653eef8934.jpg",
+    "static/media/img (2).jpg": "/travel_advisor/static/media/img (2).a08fbb5f6fa790a98a6c.jpg",
+    "static/media/img (6).jpg": "/travel_advisor/static/media/img (6).2115a36c2bcdd4d7e6d2.jpg",
+    "static/media/img (4).jpg": "/travel_advisor/static/media/img (4).1051dae474bc4e4fa85c.jpg",
+    "index.html": "/travel_advisor/index.html",
+    "main.0e93fd17.css.map": "/travel_advisor/static/css/main.0e93fd17.css.map",
+    "main.138d91e1.js.map": "/travel_advisor/static/js/main.138d91e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e93fd17.css",
+    "static/js/main.138d91e1.js"
+  ]
+}
